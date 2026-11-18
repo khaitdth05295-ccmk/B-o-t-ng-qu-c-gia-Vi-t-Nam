@@ -1,0 +1,8 @@
+{
+  "name": "BẢO VẬT QUỐC GIA VIỆT NAM | Vietnam National Treasures",
+  "description": "Bách khoa toàn thư số, thư viện hiện vật, bản đồ địa lý tương tác và cơ sở dữ liệu bảo tàng về Bảo vật Quốc gia Việt Nam (Dự án D05).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
